@@ -1,0 +1,5 @@
+edu/ejb/MessageServlet.class
+edu/ejb/LoginServlet.class
+edu/ejb/RandomPrediction.class
+edu/ejb/EJBComponentImpl.class
+edu/ejb/EJBComponent.class
